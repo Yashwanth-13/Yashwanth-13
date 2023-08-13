@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior at CVRH College of Engineering.<br>Interested in Cyber Security and would like to contribute to this field later in my career.<br>
+* Junior at CVRH College of Engineering, Hyderabad.<br>* Interested in Cyber Security and would like to contribute to this field later in my career.<br>
 
 
 # 💻 Tech Stack:
