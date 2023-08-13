@@ -12,7 +12,7 @@
 
 ### ✍️ Random Dev Quote
 **“Computers are incredibly fast, accurate and stupid; humans are incredibly slow, inaccurate and brilliant; together they are powerful beyond imagination."**
---Some famous person
+  *-Some famous person*
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yashwanth-13&icon=0&color=0)](https://visitcount.itsvg.in)
