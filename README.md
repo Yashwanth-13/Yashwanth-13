@@ -10,9 +10,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-**“Computers are incredibly fast, accurate and stupid; humans are incredibly slow, inaccurate and brilliant; together they are powerful beyond imagination."**
-  *-Some famous person*
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Yashwanth-13&icon=0&color=0)](https://visitcount.itsvg.in)
